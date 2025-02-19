@@ -1,0 +1,7 @@
+ // operacions aritmètiques
+x := 5 > 3
+y := 5 < 2
+z := 4 = 4
+
+ // exemples errors entre cadenes
+x := 5 > "hello"

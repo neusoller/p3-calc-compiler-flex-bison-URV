@@ -1,0 +1,4 @@
+arr[10];     // Declaració d'un array de 10 elements
+arr[3] := 5; // Assignació a un element de l'array
+x := arr[3]; // Accés a un element de l'array
+

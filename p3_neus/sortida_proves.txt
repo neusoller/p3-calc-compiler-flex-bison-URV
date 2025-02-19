@@ -1,0 +1,35 @@
+Línia 1: Comentari simple
+Línia 5	syntax error
+Línia 5: Error síntàctic: No hi ha cap regla que coicideixi. (error EOL)
+Línia 11: IF-ELSE
+Línia 14	syntax error
+Línia 14: Error síntàctic: No hi ha cap regla que coicideixi. (error EOL)
+Línia 16	syntax error
+Línia 16: Error síntàctic: No hi ha cap regla que coicideixi. (error EOL)
+
+Línia 17: Error síntàctic: No hi ha cap regla que coicideixi. (error EOL)
+Línia 18	SEMANTIC ERROR: No es troba la variable
+Línia 19: Final fitxer
+Line 19, Printing intermediate code
+Mostrant la taula de símbols personalitzada:
+Variable i:
+	->Valor: 111
+	->Tipus: INTEGER
+Variable $t1:
+	->Valor: 0
+	->Tipus: INTEGER
+Variable $t3:
+	->Valor: 1.00
+	->Tipus: FLOAT
+Variable $t5:
+	->Valor: 0.00
+	->Tipus: FLOAT
+Variable total:
+	->Valor: $t9
+	->Tipus: FLOAT
+Variable $t7:
+	->Valor: 0.00
+	->Tipus: FLOAT
+Variable $t9:
+	->Valor: -1.00
+	->Tipus: FLOAT
